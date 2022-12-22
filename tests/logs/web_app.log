@@ -1,0 +1,5 @@
+2022-11-26T14:26:06.959+0800	ERROR	user/auth.go:28	注册用户sql: no rows in result set
+2022-11-26T14:32:39.618+0800	ERROR	user/auth.go:28	注册用户sql: no rows in result set
+2022-11-26T14:32:58.388+0800	ERROR	user/auth.go:28	注册用户sql: no rows in result set
+2022-11-26T14:33:19.583+0800	ERROR	user/auth.go:28	注册用户sql: no rows in result set
+2022-11-26T14:33:37.934+0800	ERROR	user/auth.go:28	注册用户sql: no rows in result set

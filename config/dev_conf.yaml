@@ -1,0 +1,28 @@
+name: "web_app"
+mode: "dev"
+port: 8080
+version: "v0.0.1"
+start_time: "2022-09-21"
+machine_id: 1
+log:
+  level: "error"
+  filename: "logs/web_app.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "root"
+  dbname: "gintest"
+  max_open_conn: 20
+  max_lifetime: 60
+  max_idle_conn: 4
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+  db: 0
+  pool_size: 100
+  min_idle_conn: 10

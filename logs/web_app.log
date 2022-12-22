@@ -1,0 +1,9 @@
+2022-11-26T10:09:06.669+0800	ERROR	gredis/redis.go:38	Failed to create redis poolcontext deadline exceeded
+2022-11-26T10:09:15.832+0800	ERROR	user/auth.go:14	参数错误Key: 'SignUpRequest.Password' Error:Field validation for 'Password' failed on the 'required' tag
+2022-11-26T10:10:46.746+0800	ERROR	gredis/redis.go:38	Failed to create redis poolcontext deadline exceeded
+2022-11-26T10:20:07.572+0800	ERROR	user/auth.go:15	参数错误Key: 'SignUpRequest.Password' Error:Field validation for 'Password' failed on the 'required' tag
+2022-11-26T10:20:07.573+0800	ERROR	user/auth.go:17	参数错误Key: 'SignUpRequest.Password' Error:Field validation for 'Password' failed on the 'required' tag
+2022-11-26T10:29:13.366+0800	ERROR	user/auth.go:21	参数错误Key: 'SignUpRequest.Username' Error:Field validation for 'Username' failed on the 'required' tag
+Key: 'SignUpRequest.Password' Error:Field validation for 'Password' failed on the 'required' tag
+2022-11-26T10:31:24.295+0800	ERROR	user/auth.go:21	参数错误Key: 'SignUpRequest.Username' Error:Field validation for 'Username' failed on the 'required' tag
+Key: 'SignUpRequest.Password' Error:Field validation for 'Password' failed on the 'required' tag
